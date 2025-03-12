@@ -6,5 +6,32 @@ NumPy, Matplotlib, and Seaborn. My interests lie in AI, data analysis, and autom
 learn and explore new technologies in machine learning. I enjoy working with data to gain insights
 and solve problems. My goal is to build a strong career in AI and ML by continuously improving my
 skills.
+ 
 
+
+
+## 🚀 My Skill Set
+
+### 🎯 Programming Languages:
+- 🐍 Python
+
+### 📊 Libraries:
+- 📦 pandas  
+- 🔢 NumPy  
+- 🎨 seaborn  
+- 📉 matplotlib
+
+### 🌐 Deployment Frameworks:
+- ⚡ Flask  
+- 🎮 Gradio  
+- 🚀 Streamlit
+
+### 🤖 Machine Learning Algorithms:
+- 📈 Linear Regression  
+- 🌳 Decision Trees  
+- 📊 Logistic Regression  
+- 🌲 RandomForestClassifier  
+- 📚 etc.
+
+🔥 Always learning, innovating, and building intelligent solutions! 🚀
 
